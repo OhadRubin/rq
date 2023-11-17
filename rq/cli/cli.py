@@ -1,7 +1,7 @@
 """
 RQ command line tool
 """
-
+import jax
 import logging
 import logging.config
 import os
